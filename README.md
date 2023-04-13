@@ -1,2 +1,0 @@
-# probability.
-probability task
